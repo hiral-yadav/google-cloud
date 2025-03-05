@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    gcp:
+      spanner:
+        database: customer;autoConfigEmulator=true
+        instance-id: emulator-instance
+        project-id: spanner-emulator
