@@ -1,2 +1,5 @@
-/target/**
+**/target/
 .DS_IGNORE
+.DS_STORE
+*.iml
+.idea/

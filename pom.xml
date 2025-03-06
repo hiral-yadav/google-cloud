@@ -24,7 +24,7 @@
 	<modules>
 		<module>gcp-spanner</module>
         <module>gcp-bigquery</module>
-<!--        <module>gcp-storage</module>-->
+        <module>gcp-storage</module>
         <module>gcp-pubsub</module>
     </modules>
 	<scm>
